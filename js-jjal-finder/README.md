@@ -38,7 +38,7 @@ https://jjalbot.com/api
 | ------ | ------------------- |
 | GET    | /jjals?text=keyword |
 
-```json
+```javascript
 {
     _id: "61b237156f1ec100311838d6",
     tags: [
