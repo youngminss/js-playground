@@ -3,10 +3,8 @@
 </p>
 <h2 align="middle">움짤 검색기</h2>
 <p align="middle">Vanilla Javascript 데스크탑 움짤 검색기 애플리케이션</p>
+<p align="middle"><a href="https://js-playground-jjal-finder.netlify.app/">Go To Demo 🚀</a></p>
 
-<center><a href="https://js-playground-jjal-finder.netlify.app/" target="_blank">
-    Go To Demo 🚀
-</a></center>
 
 <br />
 
