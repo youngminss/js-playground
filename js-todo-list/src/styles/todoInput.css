@@ -1,0 +1,36 @@
+.todo-form {
+  display: flex;
+}
+
+.todo-form-input {
+  height: 24px;
+  padding: 5px;
+  margin-right: 5px;
+  border: 2px solid black;
+  font-size: 1.25rem;
+}
+
+.todo-form-button {
+  padding: 5px;
+  margin-right: 2px;
+  border: 2px solid black;
+  background: none;
+  font-size: 1.25rem;
+  cursor: pointer;
+}
+
+.todo-form-button:hover {
+  background: #1ddcb6;
+}
+
+.todo-item-del-all {
+  padding: 5px;
+  border: 2px solid black;
+  background: none;
+  font-size: 1.25rem;
+  cursor: pointer;
+}
+
+.todo-item-del-all:hover {
+  background: #f5476a;
+}
