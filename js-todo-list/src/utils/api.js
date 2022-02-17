@@ -24,7 +24,6 @@ export const postTodo = (username, content) => {
   const url = `${API_URL}${username}`;
 
   const todoObj = {
-    _id: Date.now(),
     content: content,
     isCompleted: false,
   };
