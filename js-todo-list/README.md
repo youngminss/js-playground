@@ -1,5 +1,5 @@
 <p align="middle" >
-  <img src="https://cdn-icons.flaticon.com/png/512/2387/premium/2387635.png?token=exp=1645088383~hmac=7b4faa53e484478c9f8d914df7faa968" width="300">
+  <img src="https://cdn-icons-png.flaticon.com/512/2666/2666505.png" width="300">
 </p>
 <h2 align="middle">투두 리스트</h2>
 <p align="middle">Vanilla Javascript 데스크탑 투두 리스트 애플리케이션</p>
