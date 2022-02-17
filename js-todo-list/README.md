@@ -3,10 +3,7 @@
 </p>
 <h2 align="middle">투두 리스트</h2>
 <p align="middle">Vanilla Javascript 데스크탑 투두 리스트 애플리케이션</p>
-
-<center><a href="https://js-playground-todolist.netlify.app/" target="_blank">
-    Go To Demo 🚀
-</a></center>
+<p align="middle"><a href="https://js-playground-todolist.netlify.app/">Go To Demo 🚀</a></p>
 
 <br />
 
